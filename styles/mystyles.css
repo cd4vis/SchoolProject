@@ -1,0 +1,23 @@
+.custom_color {
+    color: rgb(52, 60, 68);
+}
+
+.custom_font_size {
+    font-size: 16px;
+}
+
+.custom_header {
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.my_text {
+    margin-left: 100px;
+}
+
+.underline {
+    text-decoration: underline;
+}

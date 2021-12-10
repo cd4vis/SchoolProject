@@ -1,0 +1,37 @@
+.common {
+    color: fffff 00;
+    font-family: sans-serif;
+}
+
+.navigation_div {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    border-width: 1;
+    border-color: black;
+}
+
+.body_div {
+    top: 114px;
+    left: 5px;
+    bottom: 64px;
+    right: 5px;
+
+}
+
+.footer_div {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+}
+
+li {
+    float: right;
+    width: 150px;
+    margin-right: 5px;
+    padding: 2px;
+    border: 1px #ffb366 solid;
+    background-color: #fffdee;
+}
